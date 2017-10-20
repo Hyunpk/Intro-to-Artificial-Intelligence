@@ -1,0 +1,38 @@
+A 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+B 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+C 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+D 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+E 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+F 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+G 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+H 11 12 13 14 15 16 17 18 21 22 23 24 25 26 27 28 31 32 33 34 35 36 37 38 41 42 43 44 45 46 47 48 51 52 53 54 55 56 57 58 61 62 63 64 65 66 67 68 71 72 73 74 75 76 77 78 81 82 83 84 85 86 87 88
+0
+queensProblemConstraint A B
+queensProblemConstraint A C
+queensProblemConstraint A D
+queensProblemConstraint A E
+queensProblemConstraint A F
+queensProblemConstraint A G
+queensProblemConstraint A H
+queensProblemConstraint B C
+queensProblemConstraint B D
+queensProblemConstraint B E
+queensProblemConstraint B F
+queensProblemConstraint B G
+queensProblemConstraint B H
+queensProblemConstraint C D
+queensProblemConstraint C E
+queensProblemConstraint C F
+queensProblemConstraint C G
+queensProblemConstraint C H
+queensProblemConstraint D E
+queensProblemConstraint D F
+queensProblemConstraint D G
+queensProblemConstraint D H
+queensProblemConstraint E F
+queensProblemConstraint E G
+queensProblemConstraint E H
+queensProblemConstraint F G
+queensProblemConstraint F H
+queensProblemConstraint G H
+0
